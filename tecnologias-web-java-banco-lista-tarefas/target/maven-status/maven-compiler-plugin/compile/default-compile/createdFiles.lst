@@ -1,0 +1,4 @@
+org\netbeans\rest\application\config\CrossOriginFilter.class
+tarefas\Tarefa.class
+org\netbeans\rest\application\config\ApplicationConfig.class
+tarefas\TarefasResource.class
